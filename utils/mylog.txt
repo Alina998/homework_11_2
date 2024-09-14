@@ -1,0 +1,8 @@
+2024-09-12 22:18:54,110 - Запуск функции my_function с параметрами: (1, 2), {}
+2024-09-12 22:18:54,110 - my_function ok
+2024-09-12 22:19:58,569 - Запуск функции my_function с параметрами: (1, '2'), {}
+2024-09-12 22:19:58,569 - my_function error: TypeError. Inputs: (1, '2'), {}
+Starting my_function with args: (1, 2) kwargs: {}
+my_function ok: Result: 3
+Starting my_function with args: (1, 2) kwargs: {}
+my_function ok: Result: 3

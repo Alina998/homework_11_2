@@ -1,0 +1,40 @@
+Starting my_function with args: (1, 2) kwargs: {}
+my_function ok: Result: 3
+Starting add_numbers with args: (2, 3) kwargs: {}
+Starting add_numbers with args: (2, 3) kwargs: {}
+add_numbers ok: Result: 5
+add_numbers ok: Result: 5
+Starting my_function with args: (1, 2) kwargs: {}
+my_function ok: Result: 3
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting function_with_exception with args: (10, 0) kwargs: {}
+function_with_exception error: ZeroDivisionError. Inputs: (10, 0), {}
+Starting function_with_exception with args: (10, 0) kwargs: {}
+function_with_exception error: ZeroDivisionError. Inputs: (10, 0), {}
+Starting function_with_exception with args: (10, 0) kwargs: {}
+function_with_exception error: ZeroDivisionError. Inputs: (10, 0), {}
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting function_with_exception with args: (10, 0) kwargs: {}
+function_with_exception error: ZeroDivisionError. Inputs: (10, 0), {}
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
