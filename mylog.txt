@@ -1,0 +1,8 @@
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting function_with_exception with args: (10, 0) kwargs: {}
+function_with_exception error: ZeroDivisionError. Inputs: (10, 0), {}
+Starting successful_function with args: (3, 4) kwargs: {}
+successful_function ok: Result: 7
+Starting function_with_exception with args: (10, 0) kwargs: {}
+function_with_exception error: ZeroDivisionError. Inputs: (10, 0), {}
